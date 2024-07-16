@@ -1,0 +1,3 @@
+Product: Laptop, Quantity: 10, Price: $999.99
+Product: Mouse, Quantity: 20, Price: $19.99
+Product: Keyboard, Quantity: 15, Price: $49.99

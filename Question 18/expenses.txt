@@ -1,0 +1,3 @@
+Groceries: 100.50
+Transportation: 50.25
+Dining out: 75.75
